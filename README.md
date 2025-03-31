@@ -95,6 +95,4 @@ docker build -t simple-blockchain .
 docker run -p 5000:5000 simple-blockchain
 ```
 
-### 3. Access the App
 
-Visit: [http://
